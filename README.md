@@ -1,5 +1,6 @@
 # Landing_Pages
  Clones of populare sites(eg Netflix, Zerodha)
+ Tech Used: HTML, CSS, Flexbox, JavaScript, Tailwind CSS
 
  Netflix:
 
